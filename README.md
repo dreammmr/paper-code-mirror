@@ -2,7 +2,7 @@
 
 `paper-code-mirror` is a material design styled code editor. It's using Code Mirror plugin and RequireJS.
 
-[Live Example](http://spacee.xyz/paper-code-mirror/demo.html)
+[Live Example](http://spacee.xyz/polymer-components/paper-code-mirror/demo.html)
 
 ##Installing with Bower
 
